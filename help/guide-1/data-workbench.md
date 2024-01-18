@@ -1,8 +1,8 @@
 ---
-title: "[!DNL Data Workbench] end-of-life"
+title: '[!DNL Data Workbench] end-of-life'
 description: This document covers FAQs for the end of life of [!DNL Data Workbench].
+exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
 ---
-
 # Data Workbench end-of-life FAQ
 
 Data Workbench's end-of-life date is **December 31, 2023**.
