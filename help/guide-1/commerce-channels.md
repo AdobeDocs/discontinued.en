@@ -5,7 +5,7 @@ description: Learn when the Amazon Sales Channel and Channel Manager for Adobe C
 
 # Channels for Adobe Commerce
 
-Adobe has discontinued the following extensions for Adobe Commerce:
+Adobe has discontinued the following sales channel extensions for Adobe Commerce:
 
 - Amazon Sales Channel
 - Channel Manager
