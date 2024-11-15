@@ -13,7 +13,7 @@ Adobe has discontinued the following sales channel extensions for Adobe Commerce
 
 ## Amazon Sales Channel extension
 
-Effective November 14, 2024, Adobe has discontinued Amazon Sales Channel Extension and its accompanying integration with Amazon marketplace. The Amazon Sales Channel extension is no longer available through the Adobe Commerce Marketplace.
+Effective October 1, 2024, Adobe has discontinued Amazon Sales Channel Extension and its accompanying integration with Amazon marketplace. The Amazon Sales Channel extension is no longer available through the Adobe Commerce Marketplace.
 
 For alternative solutions, Adobe recommends exploring the partner solutions and third-party extensions available on the [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/) to find the solution that best suits your needs.
 
