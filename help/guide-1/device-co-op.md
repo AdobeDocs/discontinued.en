@@ -44,7 +44,7 @@ The following applications will be affected by the [!DNL Device Co-op] end of li
 
 - [[!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics.html?lang=en)
 - [[!DNL Adobe Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=en)
-- [[!DNL Adobe Advertising Cloud]](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=en)
+- [[!DNL Adobe Advertising]](https://experienceleague.adobe.com/docs/advertising)
 - [[!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en)
 
 ## What options do I have as alternatives to [!DNL Device Co-op]?
