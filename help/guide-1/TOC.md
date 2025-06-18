@@ -18,3 +18,4 @@ user-guide-description: List of discontinued products for [!DNL Adobe Experience
 + [Reports & Analytics](reports-and-analytics.md)
 + [Search&Promote](search-promote.md)
 + [Social](social.md)
++ [Hidden test](hidden-test.md)
