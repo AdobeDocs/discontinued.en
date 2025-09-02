@@ -20,3 +20,4 @@ user-guide-description: List of discontinued products for [!DNL Adobe Experience
 + [Social](social.md)
 + [Hidden test](hidden-test.md)
 + [Hidden test 1.1](hidden-test-1.1.md)
++ [Hidden troubleshooting](hidden-troubleshooting.md)
