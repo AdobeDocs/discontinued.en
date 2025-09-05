@@ -14,7 +14,7 @@ user-guide-description: List of discontinued products for [!DNL Adobe Experience
 + [Experience Cloud Library](experience-cloud-library.md)
 + [Experience Platform Auditor](auditor.md)
 + [Livefyre](livefyre.md)
-+ [Mobile Services](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html)
++ [Mobile Services](mobile-services.md)
 + [Reports & Analytics](reports-and-analytics.md)
 + [Search&Promote](search-promote.md)
 + [Social](social.md)
