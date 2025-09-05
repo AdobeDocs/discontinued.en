@@ -9,15 +9,18 @@ Adobe occasionally discontinues the sale, development of, or support for a produ
 
 ## List of discontinued products
 
-* [[!DNL Device Co-op]](device-co-op.md)
+* [[!DNL Channels for Adobe Commerce]](commerce-channels.md)
+* [[!DNL Data Connectors]](data-connectors.md)
 * [[!DNL Data Workbench]](data-workbench.md)
+* [[!DNL Device Co-op]](device-co-op.md)
+* [[!DNL Experience Cloud Library]](experience-cloud-library.md)
 * [[!DNL Experience Platform Auditor]](auditor.md)
 * [[!DNL Livefyre]](livefyre.md)
 * [[!DNL Mobile Services]](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html){target="_blank"}
 * [[!DNL Reports & Analytics]](reports-and-analytics.md)
 * [[!DNL Search&Promote]](search-promote.md)
 * [[!DNL Social]](social.md)
-* [[!DNL Experience Cloud Library]](experience-cloud-library.md)
+* [[!DNL Store Fulfillment for Adobe Commerce]](commerce-store-fulfillment.md)
 
 <!--
 ## Notifications of upcoming products to be discontinued
