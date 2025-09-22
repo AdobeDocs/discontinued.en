@@ -3,6 +3,7 @@ title: Hidden troubleshooting test
 description: This is a hidden troubleshooting test
 hide: true
 hidefromtoc: true
+exl-id: 9f784160-9db9-487a-81bf-1979bb341bbe
 ---
 # Troubleshooting in AEM
 
