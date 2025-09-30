@@ -20,5 +20,5 @@ user-guide-description: List of discontinued products for [!DNL Adobe Experience
 + [Social](social.md)
 + [Store Fulfillment for Adobe Commerce](commerce-store-fulfillment.md)
 + [Hidden test](hidden-test.md)
-+ [Hidden test 1.1](hidden-test-1.1.md)
++ [Hidden test 1.1](hidden-test-1-1.md)
 + [Hidden troubleshooting](hidden-troubleshooting.md)
