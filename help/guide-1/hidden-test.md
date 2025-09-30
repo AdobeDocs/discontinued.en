@@ -12,7 +12,7 @@ This is a hidden test.
 
 ## Hover text test
 
-No, no hover text
+No hover text
 
 ```
 ![alt text](assets/maui-flip.jpg)
@@ -21,7 +21,7 @@ No, no hover text
 ![alt text](assets/maui-flip.jpg)
 
 
-Yes, yes hover text
+Yes hover text
 
 ```
 ![alt text](assets/maui-flip.jpg "Hover text")
