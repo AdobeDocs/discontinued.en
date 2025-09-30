@@ -9,6 +9,26 @@ exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
 
 This is a hidden test.
 
+
+## Hover text test
+
+No, no hover text
+
+```
+![alt text](assets/maui-flip.jpg)
+```
+
+![alt text](assets/maui-flip.jpg)
+
+
+Yes, yes hover text
+
+```
+![alt text](assets/maui-flip.jpg "Hover text")
+```
+
+![alt text](assets/maui-flip.jpg "Hover text")
+
 ## Slide
 
 Syntax:
