@@ -9,6 +9,8 @@ exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
 
 This is a hidden test.  It should not appear in search.
 
+Bob was here for sprint demo.
+
 
 ## Hover text test
 
