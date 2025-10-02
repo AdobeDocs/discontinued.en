@@ -11,7 +11,7 @@ This is a hidden test.  It should not appear in search.
 
 Bob was here for sprint demo, and again after Lakshay rolled stage into production...
 
-Ajay was here.
+October 2
 
 ## Hover text test
 
