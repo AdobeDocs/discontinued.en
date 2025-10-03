@@ -3,6 +3,8 @@ title: Hidden test
 description: This is a hidden test
 hide: true
 hidefromtoc: true
+landing-page-breadcrumb-title: Test AEM 6.5
+landing-page-name: experience-manager-65
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
 ---
 # Hidden test
