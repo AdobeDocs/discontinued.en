@@ -6,6 +6,7 @@ type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/discontinued.en
 index: yes
+debug: yes
 ---
 
 # Metadata for internal use
