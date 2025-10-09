@@ -7,3 +7,4 @@ hidefromtoc: true
 # Hidden section test 1
 
 Hidden test 1
+Test: Verify this change is applied in all lang repos.
