@@ -15,7 +15,7 @@ Bob was here for sprint demo, and again after Lakshay rolled stage into producti
 
 October 16
 
-## Hover text test
+## Hover text test {#this-is-a-heading-anchor}
 
 No hover text
 
