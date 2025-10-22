@@ -6,4 +6,4 @@ hidefromtoc: true
 ---
 # Hidden bad filename
 
-Hidden test 3
+Hidden test 3 Bob and Sarika were here!
