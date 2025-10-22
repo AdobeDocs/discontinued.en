@@ -14,7 +14,7 @@ This is a hidden test.  It should not appear in search.
 
 Bob was here for sprint demo, and again after Lakshay rolled stage into production...
 
-October 22 , Bob and Sarika are here
+October 22 , Bob and Sarika are here again!
 
 ## Hover text test {#this-is-a-heading-anchor}
 
