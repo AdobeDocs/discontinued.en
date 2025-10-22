@@ -46,6 +46,8 @@ https://experienceleague-stage.adobe.com/en/slides/analyze-project
 
 Rendered:
 
+<!--
 >[!SLIDE](analyze-project)
+-->
 
-Bob was here
+Bob: Remove the slide comment once you test the topic loc thing.
