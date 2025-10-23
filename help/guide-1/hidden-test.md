@@ -10,9 +10,9 @@ exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
 ---
 # Hidden test
 
-This is a hidden test.  It should not appear in search.
+This is a hidden test. I'm adding this `[` to make sure it works ok in v2 rendering. 
 
-Bob was here for sprint demo, and again after Lakshay rolled stage into production...
+Bob was here for sprint demo, and again after Lakshay rolled stage into production.
 
 October 22 , Bob and Sarika are here again and again and yet again!
 
