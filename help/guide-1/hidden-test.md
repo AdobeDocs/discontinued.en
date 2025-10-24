@@ -16,6 +16,18 @@ Bob was here for sprint demo, and again after Lakshay rolled stage into producti
 
 October 22 , Bob and Sarika are here again and again and yet again!
 
+## Relative links
+
+* [Overview](overview.md)
+* [Search and promote](search-promote.md)
+* [Social](social.md)
+
+## Explicit deep link
+
+[overview additional (root)](/help/guide-1/overview.md#additional-products)
+
+[overview additional](overview.md#additional-products)
+
 ## Hover text test {#this-is-a-heading-anchor}
 
 No hover text

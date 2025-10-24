@@ -39,7 +39,7 @@ Adobe occasionally discontinues the sale, development of, or support for a produ
 * *[!DNL Captivate Prime]* is now *[!DNL Adobe Learning Manager]*.
 * *[!DNL Bizible]* is now *[!DNL Marketo Measure]*.
 
-## Additional discontinued products
+## Additional discontinued products {#additional-products}
 
 * *[!DNL Adobe Bloodhound]* was sunset on May 1, 2017.
 * *[!DNL AEM Mobile]* was discontinued on April 3, 2021. See [AEM Mobile end-of-life FAQs](https://helpx.adobe.com/digital-publishing-solution/help/aem-mobile-end-of-life-faq.html).
