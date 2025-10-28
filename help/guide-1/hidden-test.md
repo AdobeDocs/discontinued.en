@@ -14,6 +14,8 @@ This is a hidden test. I'm adding this `[` to make sure it works ok in v2 render
 
 Bob was here for sprint demo, and again after Lakshay rolled stage into production.
 
+Matt was here - October 28.
+
 October 22 , Bob and Sarika are here again and again and yet again!
 
 ## Relative links
