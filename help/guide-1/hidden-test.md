@@ -16,7 +16,7 @@ Bob was here for sprint demo, and again after Lakshay rolled stage into producti
 
 Matt was here - October 28.
 
-October 29, 2025 - Bob and Sarika are here again and again and yet again!
+Slack notification? October 30.
 
 ## Relative links
 
