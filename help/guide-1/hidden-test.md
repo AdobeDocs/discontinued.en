@@ -16,7 +16,7 @@ Bob was here for sprint demo, and again after Lakshay rolled stage into producti
 
 Matt was here - October 28.
 
-Slack notification not received - sarikaaaa... November 5
+Slack notification not received - sarikaaaa.. test November 5
 
 ## Bad table
 
