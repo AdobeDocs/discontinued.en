@@ -9,15 +9,15 @@ exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
 
 ### **_On what date did [!DNL Search&Promote] cease to operate?_**
 
-  End-of-Service for [!DNL Adobe Search&Promote] was scheduled for **September 1, 2022**. On that date, the [!DNL Search&Promote] administrative user interface was no longer accessible, and requests to [!DNL Search&Promote] APIs no longer delivered results.
+End-of-Service for [!DNL Adobe Search&Promote] was scheduled for **September 1, 2022**. On that date, the [!DNL Search&Promote] administrative user interface was no longer accessible, and requests to [!DNL Search&Promote] APIs no longer delivered results.
 
 ### **_What will happen if a search or other API request is made to [!DNL Search&Promote]?_**
 
-  Search and other API requests made to [!DNL Search&Promote] no longer return results. Requests can result in a "Host not Found" error, a 3xx HTTP redirect, or an HTTP error such as 404, 408, or other HTTP error code.
+Search and other API requests made to [!DNL Search&Promote] no longer return results. Requests can result in a "Host not Found" error, a 3xx HTTP redirect, or an HTTP error such as 404, 408, or other HTTP error code.
 
 ### **_Does Adobe have alternative options for site search and commerce search?_**
 
-  Yes. For product and commerce search, [Live Search from [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=en) is the Adobe search application going forward.
+Yes. For product and commerce search, [Live Search from [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=en) is the Adobe search application going forward.
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
@@ -27,4 +27,4 @@ exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
 
 ### **_Who can I contact to learn more?_**
 
-  Reach out to your Customer Success Manager (CSM) with any questions or contact the Adobe team at [searchquestions@adobe.com](mailto:searchquestions@adobe.com).
+Reach out to your Customer Success Manager (CSM) with any questions or contact the Adobe team at [searchquestions@adobe.com](mailto:searchquestions@adobe.com).
