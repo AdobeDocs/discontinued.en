@@ -24,3 +24,4 @@ No, Livefyre will end on November 30, 2021. Adobe is recommending alternative so
 ### **_Who can I contact to learn more?_**
 
 Reach out to your CSM (Customer Success Manager) or Shelly Chiang (`schiang@adobe.com`) with any questions.
+
