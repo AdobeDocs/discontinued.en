@@ -1,7 +1,7 @@
 ---
 title: Hidden section 1 test
 description: This is a hidden test 1
-auto-videos-transcripts: false
+auto-video-transcripts: false
 hide: true
 hidefromtoc: true
 ---
