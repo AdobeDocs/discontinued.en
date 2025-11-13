@@ -14,28 +14,19 @@ This is a hidden test. I'm adding this `[` to make sure it works ok in v2 render
 
 November 12, 2025
 
-## Bad table
+## Video test
 
-**Original**
+### Plain video no transcript - should show transcript because metadata.md trickle down
 
-| Task    | Description  |
-| -----------| ---------- |
-| [Implement the Experience Cloud ID Service for Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html)  | Adobe also recommends setting additional [customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html). These IDs are associated with each visitor and enable current and future functionality in Experience Cloud. |
-| Update your existing `s_code` to version H.27.3 or later, or your existing `AppMeasurement.js` to version 1.4 or later.  | These files are available for download in the [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) in Analytics Admin Tools. (The [JavaScript Implementation](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js) guide is available if you need more information about `AppMeasurement.js`.) |
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
-**Two extra spaces**
+### With transcript set to true
 
-| Task    | Description  |
-| -----------| ---------- |
-| [Implement the Experience Cloud ID Service for Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html)  | Adobe also recommends setting additional [customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html). These IDs are associated with each visitor and enable current and future functionality in Experience Cloud. |
-| Update your existing `s_code` to version H.27.3 or later, or your existing `AppMeasurement.js` to version 1.4 or later.  | These files are available for download in the [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) in Analytics Admin Tools. (The [JavaScript Implementation](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js) guide is available if you need more information about `AppMeasurement.js`.) |
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
-**Extra spaces but not after header divider**
+### With transcript set to false - video transcript should not show
 
-| Task    | Description  |
-| -----------| ---------- |
-| [Implement the Experience Cloud ID Service for Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html)  | Adobe also recommends setting additional [customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html). These IDs are associated with each visitor and enable current and future functionality in Experience Cloud. |
-| Update your existing `s_code` to version H.27.3 or later, or your existing `AppMeasurement.js` to version 1.4 or later.  | These files are available for download in the [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) in Analytics Admin Tools. (The [JavaScript Implementation](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js) guide is available if you need more information about `AppMeasurement.js`.) |
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Relative links
 
