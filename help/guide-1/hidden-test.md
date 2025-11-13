@@ -14,6 +14,20 @@ This is a hidden test. I'm adding this `[` to make sure it works ok in v2 render
 
 November 12, 2025
 
+## Video test
+
+### Plain video no transcript - should show transcript because metadata.md trickle down
+
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
+
+### With transcript set to true
+
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
+
+### With transcript set to false - video transcript should not show
+
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
+
 ## Bad table
 
 **Original**
