@@ -12,6 +12,31 @@ exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
 
 This is a hidden test. I'm adding this `[` to make sure it works ok in v2 rendering.
 
+## Open in new tab
+
+`[See What's new](auditor.md) {target="_blank"}`
+
+[Download files](auditor.md) {target="_blank"}
+
+[Download files](auditor.md){target="_blank"}
+
+[Download files](auditor.md) {target=_blank}
+
+[Download files](auditor.md){target=_blank}
+
+<table>
+  <tr>
+    <th>With quotes</a></th>
+    <th>Without quotes</th>
+  </tr>
+  <tr>
+    <td><a href="http://www.adobe.com" target="_blank"></a></td>
+    <td><a href="http://www.adobe.com" target=_blank></td>
+  </tr>
+</table>
+
+## Comment test
+
 November 18, 2025
 
 Comment below. If this is the last thing you see in this article, it's due to the comment syntax.
