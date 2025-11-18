@@ -12,7 +12,17 @@ exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
 
 This is a hidden test. I'm adding this `[` to make sure it works ok in v2 rendering.
 
-November 12, 2025
+November 18, 2025
+
+Comment below. If this is the last thing you see in this article, it's due to the comment syntax.
+
+<!-- ### Comment syntax
+
+This is a new section.
+
+The comment syntax close is at the end of the line. -->
+
+This line is after the comment.
 
 ## Video test
 
