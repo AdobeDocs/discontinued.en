@@ -26,6 +26,10 @@ This is a hidden test. I'm adding this `[` to make sure it works ok in v2 render
 
 [New tab without space without quotes](auditor.md){target=_blank}
 
+[New tab with deep link](commerce-channels.md#channel-manager-extension){target="_blank"}
+
+[New tab with external link](https://www.adobe.com){target="_blank"}
+
 [New tab root link](/help/guide-1/auditor.md){target="_blank"}
 
 
@@ -35,8 +39,12 @@ This is a hidden test. I'm adding this `[` to make sure it works ok in v2 render
     <th>Without quotes</th>
   </tr>
   <tr>
-    <td><a href="http://www.adobe.com" target="_blank">Adobe new tab</a></td>
-    <td><a href="http://www.adobe.com" target=_blank>Adobe new tab</td>
+    <td><a href="https://www.adobe.com" target="_blank">Adobe new tab</a></td>
+    <td><a href="https://www.adobe.com" target=_blank>Adobe new tab</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.adobe.com">Adobe no new tab</a></td>
+    <td><a href="https://www.adobe.com">Adobe no new tab</td>
   </tr>
 </table>
 
