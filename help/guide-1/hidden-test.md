@@ -30,8 +30,8 @@ This is a hidden test. I'm adding this `[` to make sure it works ok in v2 render
     <th>Without quotes</th>
   </tr>
   <tr>
-    <td><a href="http://www.adobe.com" target="_blank"></a></td>
-    <td><a href="http://www.adobe.com" target=_blank></td>
+    <td><a href="http://www.adobe.com" target="_blank">Adobe</a></td>
+    <td><a href="http://www.adobe.com" target=_blank>Adobe</td>
   </tr>
 </table>
 
