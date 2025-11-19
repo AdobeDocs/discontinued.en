@@ -16,6 +16,8 @@ This is a hidden test. I'm adding this `[` to make sure it works ok in v2 render
 
 `[See What's new](auditor.md) {target="_blank"}`
 
+[Open in same tab](auditor.md)
+
 [New tab with space with quotes](auditor.md) {target="_blank"}
 
 [New tab without space with quotes](auditor.md){target="_blank"}
