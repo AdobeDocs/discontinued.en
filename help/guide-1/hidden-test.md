@@ -16,13 +16,16 @@ This is a hidden test. I'm adding this `[` to make sure it works ok in v2 render
 
 `[See What's new](auditor.md) {target="_blank"}`
 
-[Download files](auditor.md) {target="_blank"}
+[New tab with space with quotes](auditor.md) {target="_blank"}
 
-[Download files](auditor.md){target="_blank"}
+[New tab without space with quotes](auditor.md){target="_blank"}
 
-[Download files](auditor.md) {target=_blank}
+[New tab with space without quotes](auditor.md) {target=_blank}
 
-[Download files](auditor.md){target=_blank}
+[New tab without space without quotes](auditor.md){target=_blank}
+
+[New tab root link](/help/guide-1/auditor.md){target="_blank"}
+
 
 <table>
   <tr>
@@ -30,8 +33,8 @@ This is a hidden test. I'm adding this `[` to make sure it works ok in v2 render
     <th>Without quotes</th>
   </tr>
   <tr>
-    <td><a href="http://www.adobe.com" target="_blank">Adobe</a></td>
-    <td><a href="http://www.adobe.com" target=_blank>Adobe</td>
+    <td><a href="http://www.adobe.com" target="_blank">Adobe new tab</a></td>
+    <td><a href="http://www.adobe.com" target=_blank>Adobe new tab</td>
   </tr>
 </table>
 
