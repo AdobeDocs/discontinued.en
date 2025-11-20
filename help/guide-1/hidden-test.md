@@ -20,6 +20,8 @@ This is a hidden test. I'm adding this `[` to make sure it works ok in v2 render
 
 [New tab with space with quotes](auditor.md) {target="_blank"}
 
+[New tab with Anchor](auditor.md#_blank)
+
 [New tab without space with quotes](auditor.md){target="_blank"}
 
 [New tab with space without quotes](auditor.md) {target=_blank}
