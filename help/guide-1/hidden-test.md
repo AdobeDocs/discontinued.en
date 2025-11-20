@@ -30,6 +30,8 @@ This is a hidden test. I'm adding this `[` to make sure it works ok in v2 render
 
 [New tab with deep link](commerce-channels.md#channel-manager-extension){target="_blank"}
 
+[Anchor New tab with deep link](commerce-channels.md#channel-manager-extension#_blank)
+
 [New tab with external link](https://www.adobe.com){target="_blank"}
 
 [New tab root link](/help/guide-1/auditor.md){target="_blank"}
