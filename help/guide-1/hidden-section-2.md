@@ -10,3 +10,10 @@ landing-page-name: analytics
 
 Hidden test 2
 
+## No transcript
+
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
+
+## Transcript true
+
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
