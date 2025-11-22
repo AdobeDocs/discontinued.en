@@ -56,6 +56,13 @@ This is a hidden test. I'm adding this `[` to make sure it works ok in v2 render
 
 November 18, 2025
 
+<!-- ## Comment with basic text
+
+This is a new line.
+
+Second new line. -->
+
+
 Comment below. If this is the last thing you see in this article, it's due to the comment syntax.
 
 1. Click **[!UICONTROL Create]**.
