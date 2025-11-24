@@ -7,7 +7,6 @@ hidefromtoc: true
 ---
 # Hidden section test 1
 
-
 November 24, 2025
 
 1. Go here
