@@ -20,6 +20,5 @@ user-guide-description: List of discontinued products for [!DNL Adobe Experience
 + [Social](social.md)
 + [Store Fulfillment for Adobe Commerce](commerce-store-fulfillment.md)
 + [Hidden test](hidden-test.md)
-+ Hidden section {#hidden-section}
-  + [Hidden file 1](hidden-section-1.md)
-  + [Hidden file 2](hidden-section-2.md)
++ [Hidden file 1](hidden-section-1.md)
++ [Hidden file 2](hidden-section-2.md){target="_blank"}
