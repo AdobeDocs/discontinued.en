@@ -5,7 +5,7 @@ exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
 ---
 # End-of-life for Adobe Data Connectors integrations
 
-**Effective August 19, 2021**, Adobe has discontinued Data Connectors integrations and replaced it with the [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product). Adobe intends to make the transition as seamless as possible for customers and partners.
+**Effective August 19, 2021**, Adobe has discontinued Data Connectors integrations and replaced it with the [Adobe Exchange Marketplace](https://exchange.adobe.com/apps/browse/ec?listingType=applications&page=1&partnerLevel=All&product=ANLYTC&sort=RELEVANCE). Adobe intends to make the transition as seamless as possible for customers and partners.
 
 Adobe Analytics aims to provide the best-in-class web and marketing analytics to meet customers' needs. As technology and business needs evolve, Adobe strives to continually deliver and meet the highest standards. The APIs that power Data Connectors integrations no longer meet those standards and are not tenable in Adobe's modern technology infrastructure.
 
@@ -13,7 +13,7 @@ Note that this end-of-life announcement does not apply to Adobe Source Connector
 
 ## Why did Adobe end-of-life this feature?
 
-This feature was powered by legacy technology that is no longer viable or supported. The [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product) is now the place to find current integrations for Adobe solutions.
+This feature was powered by legacy technology that is no longer viable or supported. The [Adobe Exchange Marketplace](https://exchange.adobe.com/apps/browse/ec?listingType=applications&page=1&partnerLevel=All&product=ANLYTC&sort=RELEVANCE) is now the place to find current integrations for Adobe solutions.
 
 ## How does removal of this feature impact you?
 

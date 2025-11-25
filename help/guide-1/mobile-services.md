@@ -13,7 +13,7 @@ Mobile Services reached end-of-life on December 31, 2022. Mobile Services, which
 
 ## What is included, and what is not included?
 
-This end-of-life only includes Adobe Mobile Services, the standalone platform at [mobilemarketing.adobe.com](https://mobilemarketing.adobe.com). The Mobile version 4 SDKs that rely on this interface were sunset on August 31, 2021.
+This end-of-life only includes Adobe Mobile Services, the standalone platform at `mobilemarketing.adobe.com`. The Mobile version 4 SDKs that rely on this interface were sunset on August 31, 2021.
 
 This end-of-life does NOT include Adobe Analytics for mobile apps, part of the Adobe Experience Platform Mobile SDKs. These features, which include in-app behavior, lifecycle analysis, messaging interaction tracking, and audience profiles, continue to receive support from Adobe.
 
