@@ -1,7 +1,7 @@
 ---
 user-guide-title: Discontinued products for [!DNL Adobe Experience Cloud]
 breadcrumb-title: Discontinued products
-user-guide-description: List of discontinued products for [!DNL Adobe Experience Cloud].
+user-guide-description: List of discontinued products for [!DNL Adobe Experience Cloud]
 ---
 
 # Discontinued products {#using}
@@ -19,4 +19,4 @@ user-guide-description: List of discontinued products for [!DNL Adobe Experience
 + [Search&Promote](search-promote.md)
 + [Social](social.md)
 + [Store Fulfillment for Adobe Commerce](commerce-store-fulfillment.md)
-+ [Hidden test](hidden-test.md)
++ [Hidden test - Bob](hidden-test.md)
