@@ -8,7 +8,6 @@ description: Learn about the end-of-life plans for the Device graph.
 >[!WARNING]
 >
 >Device Graph within Cross-Device Analytics is no longer available as of **December 31, 2025**. Please switch any current device graph enabled virtual report suite to the [field-based method](https://experienceleague.adobe.com/en/docs/analytics/components/cda/field-based-stitching).
->
 
 Cross-Device Analytics did use the Private Graph to stitch data together. The Private Graph is a repository of hashed device ID's that is specific to your organization. CDA regularly communicates with the device graph to link devices together.
 
@@ -19,7 +18,6 @@ If you intended to implement Cross-Device Analytics using the device graph metho
 >[!WARNING]
 >
 >Failure to meet all prerequisites could result in the inability to enable Cross-Device Analytics or poor results when stitching data.
->
 
 * Your organization must use the [Adobe Experience Platform Identity Service Private Graph](https://business.adobe.com/products/experience-platform/identity-service.html). See also the [Home Page](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html) in the Identity Service user guide.
 * Your implementation must use the latest version of the Experience Cloud ID Service (ECID). See the [Home Page](https://experienceleague.adobe.com/docs/id-service/using/home.html) in the ID Service user guide. Most implementations using [Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html) in Adobe Experience Platform likely already have ID Service deployed.
