@@ -11,6 +11,7 @@ user-guide-description: List of discontinued products for [!DNL Adobe Experience
 + [Data Connectors](data-connectors.md)
 + [Data Workbench](data-workbench.md)
 + [Device Co-op](device-co-op.md)
++ [Device graph](device-graph.md)
 + [Experience Cloud Library](experience-cloud-library.md)
 + [Experience Platform Auditor](auditor.md)
 + [Livefyre](livefyre.md)
