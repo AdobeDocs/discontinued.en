@@ -8,6 +8,7 @@ git-repo: https://github.com/AdobeDocs/discontinued.en
 auto-video-transcripts: true
 index: yes
 debug: yes
+author: All
 ---
 
 # Metadata for internal use
