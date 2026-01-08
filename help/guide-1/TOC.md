@@ -1,5 +1,5 @@
 ---
-user-guide-title: Discontinued products for [!DNL Adobe Experience Cloud]
+user-guide-title: Discontinued products for Adobe Experience Cloud
 breadcrumb-title: Discontinued products
 user-guide-description: List of discontinued products for [!DNL Adobe Experience Cloud]
 ---
