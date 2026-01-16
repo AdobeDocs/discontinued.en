@@ -48,3 +48,4 @@ Adobe occasionally discontinues the sale, development of, or support for a produ
 >[!MORELIKETHIS]
 >
 >For a list of additional discontinued Adobe apps and services, see [Free and discontinued products | Support options](https://helpx.adobe.com/support/programs/support-options-free-discontinued-apps-services.html).
+
