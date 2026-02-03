@@ -20,4 +20,5 @@ user-guide-description: List of discontinued products for [!DNL Adobe Experience
 + [Search&Promote](/help/guide-1/search-promote.md)
 + [Social](/help/guide-1/social.md)
 + [Store Fulfillment for Adobe Commerce](/help/guide-1/commerce-store-fulfillment.md)
-+ [Hidden test - January](/help/guide-1/hidden-test.md)
++ [Hidden test - February](/help/guide-1/hidden-test.md)
++ [Hidden test - new](hidden-section-1.md)
