@@ -12,6 +12,7 @@ exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
 # Hidden test
 
 Feb. 2, 2026 - `hold: true` is on. Oh, it's so on!
+Feb 3, 2026 - Matt
 
 This is a hidden test. I'm adding this `[` to make sure it works ok in v2 rendering!
 
