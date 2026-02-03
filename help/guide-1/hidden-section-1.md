@@ -4,10 +4,11 @@ description: This is a hidden test 1
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
+hold: true
 ---
 # Hidden section test 1
 
-November 24, 2025
+Feb 3, 2026
 
 1. Go here
 

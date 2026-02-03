@@ -6,11 +6,12 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
+hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
 ---
 # Hidden test
 
-Jan. 26 - Bob
+Feb. 2, 2026 - `hold: true` is on. Oh, it's so on!
 
 This is a hidden test. I'm adding this `[` to make sure it works ok in v2 rendering!
 
@@ -144,4 +145,3 @@ Rendered:
 -->
 
 Bob: Remove the slide comment once you test the topic loc thing.
-
