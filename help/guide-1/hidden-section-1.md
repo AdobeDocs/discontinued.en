@@ -8,7 +8,7 @@ hold: true
 ---
 # Hidden section test 1
 
-Feb 4, 2026
+Feb 26, 2026
 
 1. Go here
 
