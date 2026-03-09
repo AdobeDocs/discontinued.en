@@ -4,7 +4,6 @@ description: This is a hidden test 1
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-hold: true
 ---
 # Hidden section test 1
 
