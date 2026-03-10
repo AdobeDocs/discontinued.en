@@ -11,11 +11,9 @@ exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
 ---
 # Hidden test
 
-Mar. 4, 2026 - `hold: true` is on. 
+Mar. 10, 2026 - `hold: true` is on. 
 
 Testing new key
-
-Feb 11: Testing hold.
 
 This is a hidden test. I'm adding this `[` to make sure it works ok in v2 rendering!
 
