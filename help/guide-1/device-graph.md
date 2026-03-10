@@ -2,7 +2,6 @@
 keywords: Device-graph;end-of-life
 title: Device graph
 description: Learn about the end-of-life plans for the Device graph.
-hold: true
 ---
 # End-of-life for device graph
 
@@ -28,4 +27,4 @@ If you intended to implement Cross-Device Analytics using the device graph metho
 
 * Legacy Analytics ID's are not supported. Only visitors with Experience Cloud ID's are stitched.
 * If your organization uses a Private Graph, new devices take up to 24 hours to be stitched. 
-* Third-party device graphs are not supported.
+* 3rd-party device graphs are not supported.
