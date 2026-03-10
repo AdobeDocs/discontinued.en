@@ -6,7 +6,7 @@ hide: true
 ---
 # Hidden section test 1
 
-March 9, 2026
+March 10, 2026 - No `hold: true` for this article
 
 1. Go here
 
