@@ -19,11 +19,13 @@ Search and other API requests made to [!DNL Search&Promote] no longer return res
 
 Yes. For product and commerce search, [Live Search from [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=en) is the Adobe search application going forward.
 
-<!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
+<!-- 
+### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
-  Yes. If the Search&Promote feature is critical to your marketing strategy, consider the many open-source frameworks that exist to power search, including [Apache Solr](https://solr.apache.org/) and [Elastic Free and Open](https://www.elastic.co/about/free-and-open).  
+Yes. If the Search&Promote feature is critical to your marketing strategy, consider the many open-source frameworks that exist to power search, including [Apache Solr](https://solr.apache.org/) and [Elastic Free and Open](https://www.elastic.co/about/free-and-open).  
 
-  Also, both [AWS](https://aws.amazon.com/cloudsearch/) and [Microsoft&reg; Azure](https://azure.microsoft.com/en-us/services/search/) provide cloud-native search capabilities on their respective cloud platforms. You can integrate both options into Adobe Experience Manager Sites to power site search and more. -->
+Also, both [AWS](https://aws.amazon.com/cloudsearch/) and [Microsoft&reg; Azure](https://azure.microsoft.com/en-us/services/search/) provide cloud-native search capabilities on their respective cloud platforms. You can integrate both options into Adobe Experience Manager Sites to power site search and more.
+-->
 
 ### **_Who can I contact to learn more?_**
 
