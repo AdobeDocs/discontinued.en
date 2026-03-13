@@ -22,4 +22,3 @@ If you are an Adobe Partner, details on migrating your integration to the Adobe 
 If you are a Data Connector customer and want to request that the integration you use should be migrated, please route all requests directly to the integration partner. The partner must commit to moving to the new APIs. Adobe Customer Care cannot compel partners to move to the new APIs. Each company providing an integration was given the option to migrate their integration to Adobe Exchange or discontinue their integration.
 
 Please reach out to Adobe Customer Care for questions or support.
-
