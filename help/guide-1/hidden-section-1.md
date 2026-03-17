@@ -3,6 +3,7 @@ title: Hidden section 1 test
 description: This is a hidden test 1
 auto-video-transcripts: false
 hide: true
+index: false
 ---
 # Hidden section test 1
 
