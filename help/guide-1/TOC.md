@@ -22,5 +22,5 @@ user-guide-description: List of discontinued products for [!DNL Adobe Experience
 + [Store Fulfillment for Adobe Commerce](/help/guide-1/commerce-store-fulfillment.md)
 + {hide-from-toc} [Hidden test - February](/help/guide-1/hidden-test.md)
 + {hide-from-toc} [Hidden section 1](hidden-section-1.md)
-+ {hide-from-toc} [Hidden section - 2](hidden-section-2.md)
++ {hide-from-toc} [Hidden section - 2](/help/guide-1/hidden-section-2.md)
 
