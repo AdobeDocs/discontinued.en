@@ -1,7 +1,6 @@
 ---
 title: Channels for Adobe Commerce
 description: Learn when the Amazon Sales Channel and Channel Manager for Adobe Commerce extensions reached end-of-life.
-hold: true
 exl-id: 40ff120b-4f37-4ef6-a3ad-e7ee67dd3e23
 ---
 
