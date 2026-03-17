@@ -38,4 +38,3 @@ Adobe offers three transition paths depending on your organization's use case.
 ## Where can I go if I have questions?
 
 See the [Adobe Mobile Services end-of-life Spark page](https://spark.adobe.com/page/C6D30y09zaRpD/) for more information. Contact your Adobe representative with any additional questions.
-

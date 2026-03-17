@@ -30,3 +30,4 @@ Also, both [AWS](https://aws.amazon.com/cloudsearch/) and [Microsoft&reg; Azure]
 ### **_Who can I contact to learn more?_**
 
 Reach out to your Customer Success Manager (CSM) with any questions or contact the Adobe team at [searchquestions@adobe.com](mailto:searchquestions@adobe.com).
+
