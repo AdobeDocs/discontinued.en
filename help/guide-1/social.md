@@ -1,6 +1,7 @@
 ---
 title: "[!DNL Adobe Social] Product Documentation"
 description: "[!DNL Adobe Social] User Guide Resources"
+hold: true
 exl-id: 48527ae3-bc6a-4f30-9309-701bb2be0650
 ---
 # [!DNL Social Product] Documentation
