@@ -99,3 +99,4 @@ This will depend on the feature. For example, if an Analytics Ultimate customer 
 ## What about the [!UICONTROL People] metric?
 
 With the deprecation of the [!DNL Device Co-op], the [!UICONTROL People] metric is no longer relevant. On May 8, 2023, we will remove the [!UICONTROL People] metric. At that point, we will redirect its data to the [!UICONTROL Unique Visitor] metric in Analytics to prevent projects, segments and calculated metrics from breaking.
+
