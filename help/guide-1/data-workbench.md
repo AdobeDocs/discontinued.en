@@ -36,3 +36,4 @@ Adobe currently offers the following Adobe Experience Platform solutions that fu
 ## Where can I go for more information?
 
 Contact your organization's Adobe Account Manager for any details or questions around this [end-of-life announcement](https://express.adobe.com/page/GSu6oKOD88GAj/).
+
