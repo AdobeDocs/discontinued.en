@@ -28,4 +28,3 @@ If you intended to implement Cross-Device Analytics using the device graph metho
 * Legacy Analytics ID's are not supported. Only visitors with Experience Cloud ID's are stitched.
 * If your organization uses a Private Graph, new devices take up to 24 hours to be stitched. 
 * 3rd-party device graphs are not supported.
-
