@@ -1,7 +1,7 @@
 ---
 title: Unhidden test
 description: unhidden test to be deleted soon after
-hide: yes
+hide: true
 ---
 # Unhidden test
 
