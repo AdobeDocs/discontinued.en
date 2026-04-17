@@ -1,7 +1,9 @@
 ---
 title: Mirror workflow test page
-description: Test page for validating mirrored markdown content.
+description: Updated test page for validating mirrored markdown content.
 ---
 # Mirror workflow test page
 
-This is a test markdown file with frontmatter.
+This file was updated to verify that mirroring picks up the latest content from the source repository.
+
+If this text appears in the public repository, the reusable mirror workflow is using the expected version.
