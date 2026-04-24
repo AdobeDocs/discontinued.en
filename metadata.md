@@ -9,6 +9,7 @@ auto-video-transcripts: true
 index: true
 debug: yes
 author: various
+test: true
 ---
 
 # Metadata for internal use
