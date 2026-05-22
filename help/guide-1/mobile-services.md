@@ -19,7 +19,7 @@ This end-of-life does NOT include Adobe Analytics for mobile apps, part of the A
 
 ## Why is the capability being retired?
 
-As Adobe continues to expand its mobile marketing capabilities, features previously available in Mobile Services will be released in Adobe Experience Cloud solutions or offered through Adobe Exchange Premier Partners. This transition provides you with more powerful and flexible mobile marketing capabilities.
+As Adobe continues to expand its mobile marketing capabilities, features previously available in Mobile Services will be released in CX Enterprise solutions or offered through Adobe Exchange Premier Partners. This transition provides you with more powerful and flexible mobile marketing capabilities.
 
 ## What happens to existing processing rules created in Mobile Services?
 

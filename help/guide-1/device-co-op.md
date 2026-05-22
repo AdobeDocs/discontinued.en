@@ -1,12 +1,12 @@
 ---
-keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-op;end-of-life
+keywords: device co-op;Device Co-op;end-of-life
 title: "[!DNL Device Co-op] end-of-life FAQ"
 description: Learn about the end-of-life plans for the Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 ---
 # [!DNL Device Co-op] end-of-life FAQ
 
-This document provides answers to frequently asked questions about the [!DNL Adobe Experience Cloud Device Co-op] end-of-life (EOL) plan. When this plan goes into effect, Adobe will provide an advanced notice in the [Experience Cloud release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html) and the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
+This document provides answers to frequently asked questions about the CX Enterprise Device Co-op end-of-life (EOL) plan. When this plan goes into effect, Adobe will provide an advanced notice in the [CX Enterprise central release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html) and the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
 [!DNL Device Co-op] was a program that let participants work together to better identify consumers across digital touch points while ensuring the highest level of privacy and transparency.
 
@@ -69,9 +69,9 @@ There are no plans to modify the current [!DNL Audience Manager Data Management 
 
 There are currently no alternatives available for [!DNL Target] because [!DNL Target] provides a deterministic cross-device identity stitching capability known as `mbox3rdPartyId`, which functions similarly to Adobe's Customer ID. This capability allows [!DNL Target] customers to merge profiles and activity participation across [!DNL Target] tests and personalization being done in inbound channels.
 
-### Adobe Advertising Cloud
+### Adobe Advertising
 
-[!DNL Advertising Cloud] customers will no longer be able to use [!DNL Device Co-op] for cross-device audience targeting and measurement. With [!DNL Advertising Cloud], you will still be able to leverage Adobe's [!DNL Device Graph] partnership with [!DNL LiveRamp] to continue to perform these functions to the extent of [!DNL LiveRamp's] ability and scale. You must allow your campaigns that are using [!DNL Device Co-op] to end, and then either switch to the [!DNL LiveRamp] device graph provider, or no longer leverage people-based targeting.
+[!DNL Adobe Advertising] customers will no longer be able to use [!DNL Device Co-op] for cross-device audience targeting and measurement. With [!DNL Advertising], you will still be able to leverage Adobe's [!DNL Device Graph] partnership with [!DNL LiveRamp] to continue to perform these functions to the extent of [!DNL LiveRamp's] ability and scale. You must allow your campaigns that are using [!DNL Device Co-op] to end, and then either switch to the [!DNL LiveRamp] device graph provider, or no longer leverage people-based targeting.
 
 ## What existing capabilities and implementations can help my preparation for a cookie-less future?
 
@@ -82,7 +82,7 @@ Your existing Visitor ID Service implementation powers Analytics [CDA](https://e
 
 ## Will I get to keep my data from [!DNL Device Co-op]?
 
-For [!DNL Audience Manager] and [!DNL Advertising Cloud] users, the data from [!DNL Device Co-op] will not be available to be transferred to third-party graphs. [!DNL Device Co-op] data will only be migrated for [!DNL Analytics Ultimate] users using CDA with [!DNL Device Co-op] switching to Field-Based Stitching. All other solutions will not have their data migrated.
+For [!DNL Audience Manager] and [!DNL Advertising] users, the data from [!DNL Device Co-op] will not be available to be transferred to third-party graphs. [!DNL Device Co-op] data will only be migrated for [!DNL Analytics Ultimate] users using CDA with [!DNL Device Co-op] switching to Field-Based Stitching. All other solutions will not have their data migrated.
 
 ## Is it mandatory to adopt other features?
 

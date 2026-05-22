@@ -1,7 +1,7 @@
 ---
-user-guide-title: Discontinued products for Adobe Experience Cloud
+user-guide-title: Discontinued products for CX Enterprise
 breadcrumb-title: Discontinued products
-user-guide-description: List of discontinued products for [!DNL Adobe Experience Cloud]
+user-guide-description: List of discontinued products for CX Enterprise
 ---
 
 # Discontinued products {#using}
@@ -15,11 +15,9 @@ user-guide-description: List of discontinued products for [!DNL Adobe Experience
 + [Experience Cloud Library](/help/guide-1/experience-cloud-library.md)
 + [Experience Platform Auditor](/help/guide-1/auditor.md)
 + [Livefyre](/help/guide-1/livefyre.md)
++ [Media SDK (1.x and 2.x)](media-sdk.md)
 + [Mobile Services](/help/guide-1/mobile-services.md)
 + [Reports & Analytics](/help/guide-1/reports-and-analytics.md)
 + [Search&Promote](/help/guide-1/search-promote.md)
 + [Social](/help/guide-1/social.md)
 + [Store Fulfillment for Adobe Commerce](/help/guide-1/commerce-store-fulfillment.md)
-+ {hide-from-toc} [Hidden test - February](/help/guide-1/hidden-test.md)
-+ {hide-from-toc} [Hidden section 1](hidden-section-1.md)
-+ {hide-from-toc} [Hidden section - 2](/help/guide-1/hidden-section-2.md)
