@@ -1,9 +1,9 @@
 ---
-title: Overview of discontinued [!DNL Adobe Experience Cloud] products
-description: Overview of discontinued, retired, or end-of-life products for [!DNL Adobe Experience Cloud] and [!DNL Adobe Experience Platform]
+title: Overview of discontinued CX Enterprise products
+description: Overview of discontinued, retired, or end-of-life products for CX Enterprise
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
 ---
-# Overview of discontinued Adobe Experience Cloud products
+# Overview of discontinued Adobe CX Enterprise products
 
 Adobe occasionally discontinues the sale, development of, or support for a product or technology as a result of changing market conditions and impact to customers.
 
@@ -17,6 +17,7 @@ Adobe occasionally discontinues the sale, development of, or support for a produ
 * [[!DNL Experience Cloud Library]](experience-cloud-library.md)
 * [[!DNL Experience Platform Auditor]](auditor.md)
 * [[!DNL Livefyre]](livefyre.md)
+* [[!DNL Media SDK] (1.x and 2.x)](media-sdk.md)
 * [[!DNL Mobile Services]](mobile-services.md)
 * [[!DNL Reports & Analytics]](reports-and-analytics.md)
 * [[!DNL Search&Promote]](search-promote.md)
@@ -25,9 +26,6 @@ Adobe occasionally discontinues the sale, development of, or support for a produ
 
 <!--
 ## Notifications of upcoming products to be discontinued
-
-* [!DNL Data Workbench] end-of-life date is **December 31, 2023**. [Link]
-
 -->
 
 ## List of rebranded products
@@ -39,6 +37,7 @@ Adobe occasionally discontinues the sale, development of, or support for a produ
 * *[!DNL XML Documentation for Adobe Experience Manager]* is now *[!DNL Adobe Experience Manager Guides]*.
 * *[!DNL Captivate Prime]* is now *[!DNL Adobe Learning Manager]*.
 * *[!DNL Bizible]* is now *[!DNL Marketo Measure]*.
+* *[!DNL Primetime]* is now *[!DNL Adobe Pass]*.
 
 ## Additional discontinued products {#additional-products}
 

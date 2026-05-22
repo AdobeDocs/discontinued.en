@@ -9,5 +9,5 @@ As of March, 2020, Adobe officially deprecated the Adobe Experience Cloud Librar
 
 **Related Features**
 
-* [Experience Cloud Assets](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html){target=_blank}
+* [CX Enterprise Assets](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html){target=_blank}
 * [AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html){target=_blank}
