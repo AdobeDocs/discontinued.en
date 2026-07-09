@@ -14,6 +14,7 @@ debug: yes
 author: various
 test: true
 usetq: true
+ht-degree: '1%'
 ---
 
 # Metadata for internal use
