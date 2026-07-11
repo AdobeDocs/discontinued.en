@@ -6,7 +6,7 @@ exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 ---
 # [!DNL Device Co-op] end-of-life FAQ
 
-This document provides answers to frequently asked questions about the CX Enterprise Device Co-op end-of-life (EOL) plan. When this plan goes into effect, Adobe will provide an advanced notice in the [CX Enterprise central release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html) and the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
+This document provides answers to frequently asked questions about the Device Co-op end-of-life (EOL) plan. When this plan goes into effect, Adobe will provide an advanced notice in the [Experience Cloud central release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html) and the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
 [!DNL Device Co-op] was a program that let participants work together to better identify consumers across digital touch points while ensuring the highest level of privacy and transparency.
 
