@@ -22,7 +22,7 @@ In previous communications, Adobe has announced that the changing dynamics with 
 
 ### **_Can I still renew my [!DNL Livefyre] license?_**
 
-No, Livefyre will end on November 30, 2021. Adobe is recommending alternative solutions and is working closely with customers on a smooth transition.
+No, Livefyre ended on November 30, 2021. Adobe is recommending alternative solutions and is working closely with customers on a smooth transition.
 
 ### **_Who can I contact to learn more?_**
 
